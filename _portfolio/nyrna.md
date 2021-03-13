@@ -39,15 +39,29 @@ interesting and rewarding - and I enjoyed learning more about systems level
 programming and APIs.
 
 
+#### Languages
+
+- Flutter / Dart
+- Small amount of C++ via the C interop library `dart:fii`
+
+
 #### Platforms
 
 - Linux
 - Windows
 
 
-#### Languages
+#### Packaging
 
-Flutter / Dart
+- Linux:
+  - AppImage
+  - Portable
+  - Snap
+
+- Windows:
+  - Installer exe
+  - Portable
+  - winget
 
 
 <br>
