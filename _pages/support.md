@@ -21,20 +21,33 @@ It takes a huge amount of time to develop open-source projects that are given
 away for free, so any support of my past and future works is **greatly**
 appreciated! 
 
-<p>
-<a href="https://www.patreon.com/bePatron?u=6001042"
-data-patreon-widget-type="become-patron-button">Become a Patron!</a><script
-async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
-</p>
 
-[<img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="40px" width="145" >](https://www.buymeacoffee.com/Merritt)
+<!-- Patreon -->
+<a href="https://www.patreon.com/Merritt">
+<input type="image" src="assets/images/logos/patreon.png" style="width:150px;
+border: 2px solid red; border-radius: 4px; padding: 8px;">
+</a>
 
+
+<!-- Buy Me A Coffee -->
+<a href="https://www.buymeacoffee.com/Merritt">
+<input type="image"
+src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A
+Coffee" style="width:150px">
+</a>
+
+
+<!-- Ko-fi -->
 <p>
 <script type='text/javascript' src='https://ko-fi.com/widgets/widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#29abe0', 'W7W73NLKG');kofiwidget2.draw();</script> 
 </p>
 
+
+<!-- PayPal -->
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge&logo=paypal)](https://paypal.me/KristenMcWilliam)
 
+
+<!-- LiberaPay -->
 <p>
 <script src="https://liberapay.com/Merritt/widgets/receiving.js"></script>
 </p>
