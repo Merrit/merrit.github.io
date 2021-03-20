@@ -7,7 +7,7 @@ header:
 
 A shopping list that syncronizes between devices using Firebase.
 
-![Shopping List](shopping_list_web.png)
+<img src="shopping_list_android.png" style="height:600px;">
 
 Includes the ability to share a list with another user that will sync seamlessly
 between them. In ongoing development.
