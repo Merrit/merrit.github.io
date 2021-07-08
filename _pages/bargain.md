@@ -9,22 +9,42 @@ toc: true
 toc_sticky: true
 ---
 
+**Easily compare items when shopping**
+
+
+<br>
+
+
 # Web
 
 https://bargain.merritt.codes
 
+
+<br>
+
+
 # Windows
 
-## Installer
+[Installer](https://github.com/Merrit/unit_bargain_hunter/releases/latest/download/unit_bargain_hunter-installer.exe)
 
-## Portable
+[Portable](https://github.com/Merrit/unit_bargain_hunter/releases/latest/download/unit_bargain_hunter-win32_portable.zip)
+
+
+<br>
 
 
 # Linux
 
-## AppImage
+[AppImage](https://github.com/Merrit/unit_bargain_hunter/releases/latest/download/UnitBargainHunter-AppImage.zip)
 
-## Portable
+[Portable](https://github.com/Merrit/unit_bargain_hunter/releases/latest/download/linux-portable.zip)
+
+
+<br>
 
 
 # Android
+
+[Google Play]()
+
+[APK](https://github.com/Merrit/unit_bargain_hunter/releases/latest/download/app-release.apk.zip)
