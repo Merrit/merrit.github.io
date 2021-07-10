@@ -17,7 +17,7 @@ toc_sticky: true
 
 # Web
 
-https://bargain.merritt.codes
+[https://bargain.merritt.codes](https://bargain.merritt.codes)
 
 
 <br>
