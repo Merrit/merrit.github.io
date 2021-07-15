@@ -5,7 +5,7 @@ teaser: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets
 galleryDesktop:
   - url: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-desktop-initial.png
     image_path: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-desktop-initial.png
-  - image_path: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-desktop-compared.png.png
+  - image_path: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-desktop-compared.png
 ---
 
 A quick and simple way to verify which is the best value when comparing what to
