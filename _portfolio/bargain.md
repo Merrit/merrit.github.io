@@ -38,7 +38,7 @@ value and by how much.
 Desktop gallery:
 
 
-{% include gallery id="galleryDesktop" caption="Unit Bargain Hunter desktop screenshots." %}
+{% include gallery id="galleryDesktop" %}
 
 
 <br>
@@ -47,8 +47,7 @@ Desktop gallery:
 Mobile gallery:
 
 
-{% include gallery id="galleryMobile" caption="Unit Bargain Hunter mobile
-screenshots." %}
+{% include gallery id="galleryMobile" layout="half" %}
 
 <br>
 
