@@ -9,8 +9,9 @@ toc: true
 toc_sticky: true
 ---
 
-**Easily compare items when shopping**
+**Easily compare items when shopping & find the best value**
 
+![](https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-showcase-desktop-and-mobile.png)
 
 <br>
 
@@ -48,3 +49,9 @@ toc_sticky: true
 [Google Play](https://play.google.com/store/apps/details?id=codes.merritt.bargain)
 
 [APK](https://github.com/Merrit/unit_bargain_hunter/releases/latest/download/UnitBargainHunter-android.apk.zip)
+
+
+<br>
+
+
+Source code available on [GitHub](https://github.com/Merrit/unit_bargain_hunter).
