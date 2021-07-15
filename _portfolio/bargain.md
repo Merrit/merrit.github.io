@@ -1,7 +1,7 @@
 ---
 title: "Unit Bargain Hunter"
 header:
-teaser: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-showcase-desktop-and-mobile.png
+teaser: portfolio/bargain/screenshot-showcase-desktop-and-mobile.png
 galleryDesktop:
   - url: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-desktop-initial.png
     image_path: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-desktop-initial.png
