@@ -9,6 +9,12 @@ galleryDesktop:
     image_path: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-desktop-compared.png
   - url: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-desktop-multiple.png
     image_path: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-desktop-multiple.png
+  - url: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-desktop-initial-light.png
+    image_path: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-desktop-initial-light.png
+  - url: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-desktop-compared-light.png
+    image_path: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-desktop-compared-light.png
+  - url: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-desktop-multiple-light.png
+    image_path: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-desktop-multiple-light.png
 galleryMobile:
   - url: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-android-inital.png
     image_path: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-android-inital.png
@@ -16,8 +22,12 @@ galleryMobile:
     image_path: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-android-compared.png
   - url: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-android-multi.png
     image_path: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-android-multi.png
-  - url: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-android-lightTheme.png
-    image_path: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-android-lightTheme.png
+  - url: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-android-inital-light.png
+    image_path: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-android-inital-light.png
+  - url: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-android-compared-light.png
+    image_path: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-android-compared-light.png
+  - url: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-android-multi-light.png
+    image_path: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-android-multi-light.png
 ---
 
 A quick and simple way to verify which is the best value when comparing what to
@@ -47,7 +57,7 @@ Desktop gallery:
 Mobile gallery:
 
 
-{% include gallery id="galleryMobile" layout="half" %}
+{% include gallery id="galleryMobile" %}
 
 <br>
 
