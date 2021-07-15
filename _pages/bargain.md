@@ -17,7 +17,7 @@ toc_sticky: true
 
 # Web
 
-[https://bargain.merritt.codes](https://bargain.merritt.codes)
+[bargain.merritt.codes](https://bargain.merritt.codes)
 
 
 <br>
@@ -25,9 +25,9 @@ toc_sticky: true
 
 # Windows
 
-[Installer](https://github.com/Merrit/unit_bargain_hunter/releases/latest/download/unit_bargain_hunter-installer.exe)
+[Installer](https://github.com/Merrit/unit_bargain_hunter/releases/latest/download/UnitBargainHunter-windows-installer.exe)
 
-[Portable](https://github.com/Merrit/unit_bargain_hunter/releases/latest/download/unit_bargain_hunter-win32_portable.zip)
+[Portable](https://github.com/Merrit/unit_bargain_hunter/releases/latest/download/UnitBargainHunter-windows-portable.zip)
 
 
 <br>
@@ -35,9 +35,9 @@ toc_sticky: true
 
 # Linux
 
-[AppImage](https://github.com/Merrit/unit_bargain_hunter/releases/latest/download/UnitBargainHunter-AppImage.zip)
+[AppImage](https://github.com/Merrit/unit_bargain_hunter/releases/latest/download/UnitBargainHunter-linux-AppImage.zip)
 
-[Portable](https://github.com/Merrit/unit_bargain_hunter/releases/latest/download/linux-portable.zip)
+[Portable](https://github.com/Merrit/unit_bargain_hunter/releases/latest/download/UnitBargainHunter-linux-portable.zip)
 
 
 <br>
@@ -45,6 +45,6 @@ toc_sticky: true
 
 # Android
 
-[Google Play]()
+[Google Play](https://play.google.com/store/apps/details?id=codes.merritt.bargain)
 
-[APK](https://github.com/Merrit/unit_bargain_hunter/releases/latest/download/app-release.apk.zip)
+[APK](https://github.com/Merrit/unit_bargain_hunter/releases/latest/download/UnitBargainHunter-android.apk.zip)
