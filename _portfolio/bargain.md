@@ -3,9 +3,9 @@ title: "Unit Bargain Hunter"
 header:
 teaser: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-showcase-desktop-and-mobile.png
 galleryDesktop:
-  - url: https://github.com/Merrit/unit_bargain_hunter/blob/main/assets/images/screenshots/screenshot-desktop-initial.png
-    image_path: https://github.com/Merrit/unit_bargain_hunter/blob/main/assets/images/screenshots/screenshot-desktop-initial.png
-  - image_path: https://github.com/Merrit/unit_bargain_hunter/blob/main/assets/images/screenshots/screenshot-desktop-compared.png
+  - url: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-desktop-initial.png
+    image_path: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-desktop-initial.png
+  - image_path: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-desktop-compared.png.png
 ---
 
 A quick and simple way to verify which is the best value when comparing what to
