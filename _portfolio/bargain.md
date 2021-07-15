@@ -5,7 +5,19 @@ teaser: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets
 galleryDesktop:
   - url: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-desktop-initial.png
     image_path: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-desktop-initial.png
-  - image_path: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-desktop-compared.png
+  - url: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-desktop-compared.png
+    image_path: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-desktop-compared.png
+  - url: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-desktop-multiple.png
+    image_path: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-desktop-multiple.png
+galleryMobile:
+  - url: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-android-inital.png
+    image_path: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-android-inital.png
+  - url: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-android-compared.png
+    image_path: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-android-compared.png
+  - url: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-android-multi.png
+    image_path: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-android-multi.png
+  - url: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-android-lightTheme.png
+    image_path: https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-android-lightTheme.png
 ---
 
 A quick and simple way to verify which is the best value when comparing what to
