@@ -61,6 +61,14 @@ Mobile gallery:
 
 <br>
 
+
+Unit Bargain Hunter is a relatively straight-forward app with a light / dark
+theme toggle, and using `bloc` for state management.
+
+
+<br>
+
+
 #### Languages
 
 - Flutter & Dart
