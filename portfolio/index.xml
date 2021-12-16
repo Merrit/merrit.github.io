@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Portfolios on Kristen McWilliam</title><link>https://merritt.codes/portfolio/</link><description>Recent content in Portfolios on Kristen McWilliam</description><generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://merritt.codes/portfolio/index.xml" rel="self" type="application/rss+xml"/><item><title>KRunner API</title><link>https://merritt.codes/portfolio/krunner/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://merritt.codes/portfolio/krunner/</guid><description>A user-friendly API for KDE&amp;rsquo;s KRunner application.
+Improves on the standard KRunner API by offering a user-friendly language (Dart) along with type safety, null safety, named parameters, and extensives documentation and examples.
+Languages
+Dart
+Website :(fas fa-globe): Github :(fab fa-github):</description></item><item><title>Nyrna</title><link>https://merritt.codes/portfolio/nyrna/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://merritt.codes/portfolio/nyrna/</guid><description>Suspend games and applications.
+Nyrna is a cross-platform desktop application written with Flutter that allows one to suspend and resume applications.
+The design has intentionally been kept simple and minimalist as this software is expected to be used by anyone, including those who are not &amp;lsquo;tech-savvy&amp;rsquo;.
+Working with Flutter to create Nyrna has been excellent, as even while considered an alpha level feature the desktop software creation experience has been quite exceptional.</description></item><item><title>Shopping List</title><link>https://merritt.codes/portfolio/shopping_list/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://merritt.codes/portfolio/shopping_list/</guid><description>A shopping list that syncronizes between devices using Firebase.
+Includes the ability to share a list with another user that will sync seamlessly between them. In ongoing development.
+Platforms
+Android iOS Web Linux, Windows &amp;amp; Mac support when Firebase is available for desktop Languages
+Flutter / Dart
+Website :(fas fa-globe): Github :(fab fa-github):</description></item><item><title>Unit Bargain Hunter</title><link>https://merritt.codes/portfolio/bargain/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://merritt.codes/portfolio/bargain/</guid><description>A quick and simple way to verify which is the best value when comparing what to shop for.
+Unit Bargain Hunter is a multi-platform application that allows the user to compare multiple items when shopping by item count, volume, or weight along with the price of each item in order to easily find which is the best value and by how much.
+Unit Bargain Hunter is a relatively straight-forward app with a light / dark theme toggle and using bloc for state management.</description></item></channel></rss>
