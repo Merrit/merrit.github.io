@@ -4,7 +4,7 @@ Languages
 Dart
 Website :(fas fa-globe): Github :(fab fa-github):</description></item><item><title>Nyrna</title><link>https://merritt.codes/portfolio/nyrna/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://merritt.codes/portfolio/nyrna/</guid><description>Suspend games and applications.
 Nyrna is a cross-platform desktop application written with Flutter that allows one to suspend and resume applications.
-The design has intentionally been kept simple and minimalist as this software is expected to be used by anyone, including those who are not &amp;lsquo;tech-savvy&amp;rsquo;.
+The design has intentionally been kept simple and minimalist as this software is expected to be used by anyone, including those who are not &amp;rsquo;tech-savvy'.
 Working with Flutter to create Nyrna has been excellent, as even while considered an alpha level feature the desktop software creation experience has been quite exceptional.</description></item><item><title>Shopping List</title><link>https://merritt.codes/portfolio/shopping_list/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://merritt.codes/portfolio/shopping_list/</guid><description>A shopping list that syncronizes between devices using Firebase.
 Includes the ability to share a list with another user that will sync seamlessly between them. In ongoing development.
 Platforms
