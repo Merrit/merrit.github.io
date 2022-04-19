@@ -18,9 +18,9 @@
 
 # Windows
 
-[Installer](https://github.com/Merrit/unit_bargain_hunter/releases/latest/download/UnitBargainHunter-windows-installer.exe)
+[Installer](https://github.com/Merrit/unit_bargain_hunter/releases/latest/download/UnitBargainHunter-Windows-Installer.msix)
 
-[Portable](https://github.com/Merrit/unit_bargain_hunter/releases/latest/download/UnitBargainHunter-windows-portable.zip)
+[Portable](https://github.com/Merrit/unit_bargain_hunter/releases/latest/download/UnitBargainHunter-Windows-Portable.zip)
 
 
 <br>
@@ -28,9 +28,9 @@
 
 # Linux
 
-[AppImage](https://github.com/Merrit/unit_bargain_hunter/releases/latest/download/UnitBargainHunter-linux-AppImage.zip)
+[Flatpak](https://flathub.org/apps/details/codes.merritt.bargain)
 
-[Portable](https://github.com/Merrit/unit_bargain_hunter/releases/latest/download/UnitBargainHunter-linux-portable.zip)
+[Portable](https://github.com/Merrit/unit_bargain_hunter/releases/latest/download/UnitBargainHunter-Linux-Portable.tar.gz)
 
 
 <br>
@@ -40,7 +40,7 @@
 
 [Google Play](https://play.google.com/store/apps/details?id=codes.merritt.bargain)
 
-[APK](https://github.com/Merrit/unit_bargain_hunter/releases/latest/download/UnitBargainHunter-android.apk.zip)
+[APK](https://github.com/Merrit/unit_bargain_hunter/releases/latest/download/UnitBargainHunter-Android.apk)
 
 
 <br>
