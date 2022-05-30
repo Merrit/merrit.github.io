@@ -28,39 +28,36 @@ Unit Bargain Hunter makes it easy to compare any number of items to find exactly
 <br>
 
 
-# Web
+<div style="display: flex; flex-direction: column; align-items: center;">
+<a href='https://flathub.org/apps/details/codes.merritt.bargain'>
+<img width="270" 
+    alt='Download on Flathub' 
+    src='https://flathub.org/assets/badges/flathub-badge-en.png'/>
+</a>
 
-[bargain.merritt.codes](https://bargain.merritt.codes)
+<a href='https://apps.microsoft.com/store/detail/unit-bargain-hunter/9NR01KJ9MV6V'>
+<img width="270" 
+    style="margin-top:20px" 
+    alt='Download on Windows' 
+    src='https://getbadgecdn.azureedge.net/images/English_L.png'/>
+</a>
 
+<a
+href='https://play.google.com/store/apps/details?id=codes.merritt.bargain&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'>
+<img width="310"
+    alt='Get it on Google Play' 
+    src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/>
+</a>
 
-<br>
+<a
+href='https://bargain.merritt.codes'>
+<img width="270"
+    alt='Web App' 
+    src='https://raw.githubusercontent.com/Merrit/merrit.github.io/main/assets/images/web-app-badge.png'/>
+</a>
 
-
-# Windows
-
-[Installer](https://github.com/Merrit/unit_bargain_hunter/releases/latest/download/UnitBargainHunter-Windows-Installer.msix)
-
-[Portable](https://github.com/Merrit/unit_bargain_hunter/releases/latest/download/UnitBargainHunter-Windows-Portable.zip)
-
-
-<br>
-
-
-# Linux
-
-[Flatpak](https://flathub.org/apps/details/codes.merritt.bargain)
-
-[Portable](https://github.com/Merrit/unit_bargain_hunter/releases/latest/download/UnitBargainHunter-Linux-Portable.tar.gz)
-
-
-<br>
-
-
-# Android
-
-[Google Play](https://play.google.com/store/apps/details?id=codes.merritt.bargain)
-
-[APK](https://github.com/Merrit/unit_bargain_hunter/releases/latest/download/UnitBargainHunter-Android.apk)
+[Alternative Downloads](https://github.com/Merrit/unit_bargain_hunter/releases/latest)
+</div>
 
 
 <br>
