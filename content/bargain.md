@@ -9,7 +9,7 @@ toc: true
 toc_sticky: true
 ---
 
-![](https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/screenshots/screenshot-showcase-desktop-and-mobile.png)
+![](https://raw.githubusercontent.com/Merrit/unit_bargain_hunter/main/assets/images/promo/promo.png)
 
 <br>
 
