@@ -1,7 +1,4 @@
 ---
-title: "Adventure List"
-sitemap: false
-permalink: /adventurelist.html
 ---
 
 
