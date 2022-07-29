@@ -4,6 +4,8 @@ layout: single
 sitemap: false
 permalink: /adventurelist
 toc: false
+comment:
+  enable: false
 ---
 
 
