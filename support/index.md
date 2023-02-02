@@ -18,11 +18,6 @@ away for free, so any support of my past and future works is **greatly**
 appreciated! 
 
 
-<!-- Patreon -->
-<a href="https://www.patreon.com/bePatron?u=6001042"
-data-patreon-widget-type="become-patron-button">Become a Patron!</a><script
-async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
-
 
 <!-- Buy Me A Coffee -->
 <a href="https://www.buymeacoffee.com/Merritt">
@@ -39,11 +34,9 @@ Coffee" style="width:150px">
 
 
 <!-- PayPal -->
-[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge&logo=paypal)](https://paypal.me/KristenMcWilliam)
-
-
-<!-- LiberaPay -->
-<p>
-<script src="https://liberapay.com/Merritt/widgets/receiving.js"></script>
-</p>
+<a href="https://paypal.me/KristenMcWilliam">
+    <img
+    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=for-the-badge&logo=paypal"
+    alt="PayPal">
+</a>
 
