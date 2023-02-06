@@ -73,5 +73,7 @@ href='https://bargain.merritt.codes'>
 
 Source code available on [GitHub](https://github.com/Merrit/unit_bargain_hunter).
 
+[Privacy policy](/bargain_privacy/).
+
 
 <div class="medium-area-spacer"></div>
