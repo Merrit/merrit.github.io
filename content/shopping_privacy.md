@@ -1,7 +1,7 @@
 ---
 title: "Shopping Organized"
 sitemap: false
-permalink: /shopping.html
+permalink: /shopping_privacy.html
 ---
 
 
