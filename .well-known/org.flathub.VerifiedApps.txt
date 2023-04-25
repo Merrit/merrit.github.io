@@ -1,5 +1,11 @@
 # Flathub verifications
 
 
+## Feeling Finder
+a8e5c894-2767-46a9-b121-9a8a7c0072fb
+
 ## Nyrna
 cfed7729-ae8a-4aa2-9617-98af1cbc25b1
+
+## Unit Bargain Hunter
+4e2bf94c-2c0c-4397-94ae-4853a157dbd5
