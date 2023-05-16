@@ -17,6 +17,10 @@ It takes a huge amount of time to develop open-source projects that are given
 away for free, so any support of my past and future works is **greatly**
 appreciated! 
 
+<!-- GitHub Sponsors -->
+<p>
+<iframe src="https://github.com/sponsors/Merrit/button" title="Sponsor Merrit" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+</p>
 
 
 <!-- Buy Me A Coffee -->
