@@ -1,6 +1,9 @@
 # Flathub verifications
 
 
+## Adventure List
+1444a03d-7a1e-4149-a508-41bff00680a9
+
 ## Feeling Finder
 a8e5c894-2767-46a9-b121-9a8a7c0072fb
 
