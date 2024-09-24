@@ -1,0 +1,58 @@
+.spacer {
+    margin-top: 50px;
+}
+
+/* General form container styling */
+.formContainer {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Form element container */
+.formElement {
+    margin-bottom: 15px;
+}
+
+/* Label styling */
+.formLabel {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+/* Input and textarea styling */
+.formInput,
+.formTextarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+/* Textarea height */
+.formTextarea {
+    min-height: 100px;
+}
+
+/* Button styling */
+.formButton {
+    width: 100%;
+    padding: 10px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* Button hover effect */
+.formButton:hover {
+    background-color: #0056b3;
+}

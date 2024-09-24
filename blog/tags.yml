@@ -1,0 +1,14 @@
+dart:
+  label: Dart
+  permalink: /dart
+  description: Posts about the Dart programming language
+
+flutter:
+  label: Flutter
+  permalink: /flutter
+  description: Posts about the Flutter framework
+
+kde:
+  label: KDE
+  permalink: /kde
+  description: Posts about KDE

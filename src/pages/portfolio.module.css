@@ -1,0 +1,29 @@
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+.gridItem {
+    padding: 10px;
+    /* border: 1px solid #ccc; */
+    /* text-align: center; */
+}
+
+.projects {
+    text-align: start;
+}
+
+.divider {
+    margin: 100px 0;
+    border-bottom: 1px solid #ccc;
+}
+
+/* Desktop-only CSS. */
+@media only screen and (min-width: 768px) {
+    .gridContainer {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        row-gap: 40px;
+        column-gap: 40px;
+    }
+}
