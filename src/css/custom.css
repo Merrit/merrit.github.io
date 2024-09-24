@@ -1,0 +1,128 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* Available CSS variables: https://github.com/facebook/docusaurus/issues/3955#issuecomment-1521944593 */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #00b3ff;
+  --ifm-color-primary-dark: #00a1e6;
+  --ifm-color-primary-darker: #0098d9;
+  --ifm-color-primary-darkest: #007db3;
+  --ifm-color-primary-light: #1abbff;
+  --ifm-color-primary-lighter: #26beff;
+  --ifm-color-primary-lightest: #4dcaff;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* Increaseed font size for <main> */
+main {
+  /* font-size: 1.1rem; */
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #00b3ff;
+  --ifm-color-primary-dark: #00a1e6;
+  --ifm-color-primary-darker: #0098d9;
+  --ifm-color-primary-darkest: #008fcc;
+  --ifm-color-primary-light: #1abbff;
+  --ifm-color-primary-lighter: #26beff;
+  --ifm-color-primary-lightest: #4dcaff;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --ifm-font-color-base: #a7b6c4;
+}
+
+html[data-theme='dark'] {
+  --ifm-background-color: #21262D;
+  --ifm-navbar-background-color: #21262D;
+}
+
+/* -------------------------------------------------------------------------- */
+/*                                   Navbar                                   */
+/* -------------------------------------------------------------------------- */
+
+/* -------------------------------- Mastodon -------------------------------- */
+
+.navbar--mastodon-link {
+	width: 32px;
+  height: 32px;
+  padding: 6px;
+  margin-left: 6px;
+  margin-right: 6px;
+  transition: background var(--ifm-transition-fast);
+}
+
+.navbar--mastodon-link:before {
+	content: '';
+	height: 100%;
+	display: block;
+	background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--!Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.--><path d="M433 179.1c0-97.2-63.7-125.7-63.7-125.7-62.5-28.7-228.6-28.4-290.5 0 0 0-63.7 28.5-63.7 125.7 0 115.7-6.6 259.4 105.6 289.1 40.5 10.7 75.3 13 103.3 11.4 50.8-2.8 79.3-18.1 79.3-18.1l-1.7-36.9s-36.3 11.4-77.1 10.1c-40.4-1.4-83-4.4-89.6-54a102.5 102.5 0 0 1 -.9-13.9c85.6 20.9 158.7 9.1 178.8 6.7 56.1-6.7 105-41.3 111.2-72.9 9.8-49.8 9-121.5 9-121.5zm-75.1 125.2h-46.6v-114.2c0-49.7-64-51.6-64 6.9v62.5h-46.3V197c0-58.5-64-56.6-64-6.9v114.2H90.2c0-122.1-5.2-147.9 18.4-175 25.9-28.9 79.8-30.8 103.8 6.1l11.6 19.5 11.6-19.5c24.1-37.1 78.1-34.8 103.8-6.1 23.7 27.3 18.4 53 18.4 175z"/></svg>');
+  background-repeat: no-repeat;
+}
+
+html[data-theme='dark'] .navbar--mastodon-link {
+  filter: invert(1);
+}
+
+.navbar--mastodon-link:hover {
+  transform: scale(1.1);
+}
+
+/* ----------------------------------- KDE ---------------------------------- */
+
+.navbar--kde-link {
+  width: 32px;
+  height: 32px;
+  padding: 6px;
+  margin-left: 6px;
+  margin-right: 6px;
+  transition: background var(--ifm-transition-fast);
+}
+
+.navbar--kde-link:before {
+  content: '';
+  height: 100%;
+  display: block;
+  background: url('data:image/svg+xml,<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg"><path d="m26.81721 6.0579518-5.977432.5722243v24.6132839l5.914217-.890396v-10.493982l7.94986 11.63921 6.232374-1.972015-8.140472-11.193509 8.204242-10.5576331-6.359358-1.46211-7.886507 10.5571941zm-13.549395 5.9978532c-.0675.0071-.132687.03685-.183377.08773l-2.346015 2.345604c-.09864.09893-.11722.252309-.0445.372086l2.746696 4.523795c-.487167.819006-.877623 1.70206-1.156683 2.633586l-5.0425552 1.048867c-.1402951.029055-.2413813.153367-.2413813.297337v3.317296c0 .140314.095983.261806.2311699.294475l4.8943156 1.196322c.260998 1.07887.665445 2.101628 1.199988 3.041644l-2.832973 4.319972c-.07904.120754-.06252.279776.0396.381468l2.345182 2.345604c.09864.09836.252621.117637.372908.04535l4.43931-2.696114c.872008.503187 1.812374.899183 2.806296 1.16772l1.035783 4.980041c.02915.141164.153885.241396.296928.241396h3.317709c.139477 0 .261191-.09524.294481-.232013l1.219994-4.990317c1.024557-.276502 1.993542-.688627 2.886878-1.21469l4.374709 2.868406c.120287.07923.279379.06335.38148-.03869l2.346016-2.34559c.09924-.09921.117013-.252607.04409-.372072l-1.597029-2.631956-.516676.163387c-.07532.02381-.157452-.0043-.201758-.06987 0 0-1.01864-1.491165-2.334206-3.41665-1.572715 3.077927-4.772331 5.186372-8.467241 5.186372-5.249568 0-9.505489-4.256079-9.505489-9.505904 0-3.861926 2.303503-7.183248 5.610236-8.671068v-2.452313c-.601827.210541-1.183648.464396-1.73624.765418-.000404-.000369-.000809-.0014-.0024-.0028l-4.477658-2.936763c-.0603-.0394-.130199-.05513-.197673-.04819z"/></svg>');
+  background-repeat: no-repeat;
+}
+
+html[data-theme='dark'] .navbar--kde-link {
+  filter: invert(1);
+}
+
+.navbar--kde-link:hover {
+  transform: scale(1.1);
+}
+
+/* --------------------------------- GitHub --------------------------------- */
+
+.navbar--github-link {
+	width: 32px;
+	height: 32px;
+	padding: 6px;
+  margin-left: 6px;
+	margin-right: 20px;
+	transition: background var(--ifm-transition-fast);
+}
+
+.navbar--github-link:before {
+  content: '';
+	height: 100%;
+	display: block;
+	background: url("data:image/svg+xml,%3Csvg viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+}
+
+html[data-theme='dark'] .navbar--github-link:before {
+  filter: invert(1);
+}
+
+.navbar--github-link:hover {
+  transform: scale(1.1);
+}
