@@ -126,3 +126,32 @@ html[data-theme='dark'] .navbar--github-link:before {
 .navbar--github-link:hover {
   transform: scale(1.1);
 }
+
+/* -------------------------------------------------------------------------- */
+/*                               Magic Comments                               */
+/* -------------------------------------------------------------------------- */
+
+/* ------------------------ Diff syntax highlighting ------------------------ */
+
+/* https://github.com/facebook/docusaurus/issues/3318#issuecomment-1909563681 */
+
+.code-block-diff-add-line {
+  background-color: #ccffd8;
+  display: block;
+  margin: 0 -40px;
+  padding: 0 40px;
+}
+
+.code-block-diff-add-line::before {
+  position: absolute;
+  left: 8px;
+  padding-right: 8px;
+  content: '+';
+}
+
+.code-block-diff-remove-line {
+  background-color: #ffebe9;
+  display: block;
+  margin: 0 -40px;
+  padding: 0 40px;
+}
