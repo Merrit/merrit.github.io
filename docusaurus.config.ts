@@ -118,6 +118,18 @@ const config: Config = {
       theme: prismThemes.oneLight,
       darkTheme: prismThemes.oneDark,
       additionalLanguages: ['dart'],
+      magicComments: [
+        // Syntax highlighting for diff code blocks
+        // https://github.com/facebook/docusaurus/issues/3318#issuecomment-1909563681
+        {
+          className: 'code-block-diff-add-line',
+          line: 'diff-add'
+        },
+        {
+          className: 'code-block-diff-remove-line',
+          line: 'diff-remove'
+        }
+      ],
     },
   } satisfies Preset.ThemeConfig,
 };
