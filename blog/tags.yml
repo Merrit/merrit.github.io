@@ -12,3 +12,8 @@ kde:
   label: KDE
   permalink: /kde
   description: Posts about KDE
+
+linux:
+  label: Linux
+  permalink: /linux
+  description: Posts about Linux

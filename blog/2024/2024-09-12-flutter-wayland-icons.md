@@ -1,6 +1,6 @@
 ---
 title: Flutter icons on Wayland
-tags: [flutter]
+tags: [flutter, linux]
 ---
 
 Flutter apps on Wayland have had an issue for some time where they don't show
