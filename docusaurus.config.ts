@@ -1,5 +1,5 @@
-import {themes as prismThemes} from 'prism-react-renderer';
-import type {Config} from '@docusaurus/types';
+import { themes as prismThemes } from 'prism-react-renderer';
+import type { Config } from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
@@ -69,28 +69,28 @@ const config: Config = {
       //   src: 'img/logo.svg',
       // },
       items: [
-        {to: '/portfolio', label: 'Portfolio', position: 'left'},
-        {to: '/blog', label: 'Blog', position: 'left'},
-        {to: '/contact', label: 'Contact', position: 'left'},
-				{
-					'aria-label': 'Mastodon',
-					'className': 'navbar--mastodon-link',
-					'href': 'https://mastodon.social/@merritt',
-					'position': 'right',
-				},
-				{
-					'aria-label': 'KDE',
-					'className': 'navbar--kde-link',
-					'href': 'https://invent.kde.org/merritt',
-					'position': 'right',
-				},
-				{
-					'aria-label': 'GitHub',
-					'className': 'navbar--github-link',
-					'href': 'https://github.com/Merrit',
-					'position': 'right',
-				},
-			]
+        { to: '/portfolio', label: 'Portfolio', position: 'left' },
+        { to: '/blog', label: 'Blog', position: 'left' },
+        { to: '/contact', label: 'Contact', position: 'left' },
+        {
+          'aria-label': 'Mastodon',
+          'className': 'navbar--mastodon-link',
+          'href': 'https://mastodon.social/@merritt',
+          'position': 'right',
+        },
+        {
+          'aria-label': 'KDE',
+          'className': 'navbar--kde-link',
+          'href': 'https://invent.kde.org/merritt',
+          'position': 'right',
+        },
+        {
+          'aria-label': 'GitHub',
+          'className': 'navbar--github-link',
+          'href': 'https://github.com/Merrit',
+          'position': 'right',
+        },
+      ]
     },
     footer: {
       style: 'dark',
