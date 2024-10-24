@@ -43,6 +43,20 @@ const config: Config = {
           feedOptions: {
             type: ['rss', 'atom'],
             xslt: true,
+            // Only include blog posts that have the 'kde' tag.
+            //
+            // Since there doesn't seem be any built-in way to get an rss feed
+            // for a specific tag, we have to create a custom feed so that
+            // Planet KDE can syndicate my blog posts without being spammed by 
+            // all of my non-KDE related posts.
+            createFeedItems: async (params) => {
+              const { blogPosts, defaultCreateFeedItems, ...rest } = params;
+              return defaultCreateFeedItems({
+                blogPosts: blogPosts.filter((post) => post.metadata.tags.some(tag => tag.label === 'KDE')),
+                ...rest,
+              });
+            }
+
           },
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
