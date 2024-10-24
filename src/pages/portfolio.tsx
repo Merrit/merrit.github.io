@@ -186,7 +186,7 @@ function Projects() {
                     </ul>
                 </li>
             </ul>
-            <a className="button button--primary" href="/bargain/">Website</a>
+            <a className="button button--primary" href="/bargain">Website</a>
             <p />
             <a href="https://github.com/Merrit/unit_bargain_hunter" target="_blank">
                 <img src="https://img.shields.io/github/stars/merrit/unit_bargain_hunter?style=social&label=GitHub" alt="GitHub" />
