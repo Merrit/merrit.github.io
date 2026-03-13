@@ -7,6 +7,7 @@
         {
             "type": "node",
             "request": "launch",
+            "runtimeVersion": "22.18.0",
             "name": "Start",
             "skipFiles": [
                 "<node_internals>/**"
