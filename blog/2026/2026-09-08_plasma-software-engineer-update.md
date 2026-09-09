@@ -90,8 +90,7 @@ your OSK, please give it a try:
 
 - Install the plasma-morekeys flatpak (consider this alpha software!):
 ```
-curl -L -o /tmp/plasma-morekeys.flatpak "https://nextcloud.merritt.codes/s/x4gqrs596NPYarF/download" && flatp  
-ak install --user --or-update --bundle /tmp/plasma-morekeys.flatpak
+curl -L -o /tmp/plasma-morekeys.flatpak "https://nextcloud.merritt.codes/s/x4gqrs596NPYarF/download" && flatpak install --user --or-update --bundle /tmp/plasma-morekeys.flatpak
 ```
 - Test out how it works for your usecases
 - If you encounter bugs or find it isn't quite working how you require,
